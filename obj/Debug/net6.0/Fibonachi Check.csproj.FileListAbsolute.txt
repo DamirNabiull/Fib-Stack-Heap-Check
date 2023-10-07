@@ -1,0 +1,15 @@
+C:\Users\Damir\Documents\Fibonachi Check\bin\Debug\net6.0\Fibonachi Check.exe
+C:\Users\Damir\Documents\Fibonachi Check\bin\Debug\net6.0\Fibonachi Check.deps.json
+C:\Users\Damir\Documents\Fibonachi Check\bin\Debug\net6.0\Fibonachi Check.runtimeconfig.json
+C:\Users\Damir\Documents\Fibonachi Check\bin\Debug\net6.0\Fibonachi Check.dll
+C:\Users\Damir\Documents\Fibonachi Check\bin\Debug\net6.0\Fibonachi Check.pdb
+C:\Users\Damir\Documents\Fibonachi Check\obj\Debug\net6.0\Fibonachi Check.csproj.AssemblyReference.cache
+C:\Users\Damir\Documents\Fibonachi Check\obj\Debug\net6.0\Fibonachi Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damir\Documents\Fibonachi Check\obj\Debug\net6.0\Fibonachi Check.AssemblyInfoInputs.cache
+C:\Users\Damir\Documents\Fibonachi Check\obj\Debug\net6.0\Fibonachi Check.AssemblyInfo.cs
+C:\Users\Damir\Documents\Fibonachi Check\obj\Debug\net6.0\Fibonachi Check.csproj.CoreCompileInputs.cache
+C:\Users\Damir\Documents\Fibonachi Check\obj\Debug\net6.0\Fibonachi Check.dll
+C:\Users\Damir\Documents\Fibonachi Check\obj\Debug\net6.0\refint\Fibonachi Check.dll
+C:\Users\Damir\Documents\Fibonachi Check\obj\Debug\net6.0\Fibonachi Check.pdb
+C:\Users\Damir\Documents\Fibonachi Check\obj\Debug\net6.0\Fibonachi Check.genruntimeconfig.cache
+C:\Users\Damir\Documents\Fibonachi Check\obj\Debug\net6.0\ref\Fibonachi Check.dll
