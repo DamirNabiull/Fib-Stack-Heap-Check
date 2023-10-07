@@ -13,6 +13,9 @@
             Console.WriteLine(FibRec(fibNumber));
             Console.WriteLine(FibCycle(fibNumber));
             Console.WriteLine(FibDp(fibNumber));
+            
+            var line2 = Console.ReadLine();
+            
             Console.WriteLine(FibDpHeap(fibNumber));
         }
 
@@ -43,21 +46,27 @@
         {
             int* dpArr = stackalloc int[SIZE];
             int* p = dpArr;
+
+            dpArr[2] = -1;
+            
             *(p++) = 0;
             *(p++) = 1;
 
-            //Console.WriteLine();
-            //PrintArr(dpArr);
+            Console.WriteLine();
+            PrintArr(dpArr);
             
             for (int i = 2; i <= number; i++)
             {
-                *(p++) = (*(p-1) + *(p-2));
+                *(p++) = *(p - 1) + *(p - 2);
+                
+                //*p = *(p - 1) + *(p - 2);
+                //p++;
             
-                //Console.Write($"{*(p-1)} {*(p-2)}\n");
-                //PrintArr(dpArr);
+                Console.Write($"{*(p-1)} {*(p-2)}\n");
+                PrintArr(dpArr);
             }
 
-            return *p;
+            return *(p-1);
         }
         
         private static int FibDpHeap(int number)
